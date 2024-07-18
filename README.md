@@ -1,7 +1,8 @@
-# [X-clone](https://x-clone-2r9u.onrender.com/)
+# [X-clone](https://xclone-pau8.onrender.com/)
 A sample web page of X Clone Let’s make simple X app(Previously twitter). Users can post tweets and see everyone’s them. To make the project simple, we do not have a sign/login function. So there are not user accounts and follow function. You can challenge after you finish the course.
 # Screenshot
-![Capture](https://github.com/user-attachments/assets/26bf7262-0857-414b-981a-110d985d96f1)
+![Screenshot 2024-07-18 114504](https://github.com/user-attachments/assets/3a491dc2-1155-49a8-bef4-a3f144a2d590)
+
 
 # Technologies Used
 * HTML
